@@ -5,4 +5,4 @@ The app is to be a one-shot project, which if it is successful could then lead t
 
 The current solution is: https://codepen.io/jackisace/full/ExXLoRr.
 
-Feel free to explore free alternative solutions, can you make something better/neater?
+Feel free to explore free alternative solutions, can you make something better, neater, or more secure?
